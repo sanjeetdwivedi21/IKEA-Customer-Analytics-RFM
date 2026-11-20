@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Excel temporary lock files
+~$*
+
+# Power BI autorecovery / cache
+*.pbi/
+.pbi/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+.env
